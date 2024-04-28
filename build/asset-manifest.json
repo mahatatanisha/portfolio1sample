@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a41bad2a.css",
+    "main.js": "/portfolio/static/js/main.aec552d7.js",
+    "static/js/770.b477def6.chunk.js": "/portfolio/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/newsapp.png": "/portfolio/static/media/newsapp.8cc0b81804a8f8df2b7c.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/A_girl_coding_t_1a93aed7-e510-4e9a-825d-611c11956024-removebg-preview.png": "/portfolio/static/media/A_girl_coding_t_1a93aed7-e510-4e9a-825d-611c11956024-removebg-preview.1c3648cd5cdc4168e4db.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/wheatherapp2.png": "/portfolio/static/media/wheatherapp2.36e952ba5926f37f24a2.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/homemain-removebg-preview.png": "/portfolio/static/media/homemain-removebg-preview.a8ae6169eb2c3211bc7e.png",
+    "static/media/TanishaMahataResume (1)-cropped.pdf": "/portfolio/static/media/TanishaMahataResume (1)-cropped.9fbde11086ffaaf0e9c9.pdf",
+    "static/media/groffice.png": "/portfolio/static/media/groffice.7bc9ad0233d68ba1e04a.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/programmer-workspace-vector-illustration-removebg-preview.png": "/portfolio/static/media/programmer-workspace-vector-illustration-removebg-preview.6d31f2a0541e42589785.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.89e30df54ff20d0c26bbc5c38c855580.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.a41bad2a.css.map": "/portfolio/static/css/main.a41bad2a.css.map",
+    "main.aec552d7.js.map": "/portfolio/static/js/main.aec552d7.js.map",
+    "770.b477def6.chunk.js.map": "/portfolio/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a41bad2a.css",
+    "static/js/main.aec552d7.js"
+  ]
+}
